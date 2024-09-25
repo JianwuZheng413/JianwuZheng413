@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on SJTU.
 - 🌱 I’m currently learning Table Learning.
 - ⚡ Fun fact: GNN, TNN, Blockchain
-
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical) 
 <!--
 **JianwuZheng413/JianwuZheng413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
