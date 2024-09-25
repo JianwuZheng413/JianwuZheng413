@@ -8,7 +8,7 @@
   - **rLLM (relationLLM)** is an easy-to-use Pytorch library for Relational Table Learning (RTL) with LLMs
   - **DCSchain**: A flexible blockchain system focused on DCS theory.
 ### Notes :notebook:
-Our lab is working on tabular data and large models. We released <a href="https://github.com/rllm-project/rllm"> rLLM (relationLLM)</a>, the world's first algorithm library for Relational Table Learning with LLMs. If you are interested:heartbeat: in this, welcome to communicate:email: or raise an issue:question: directly on the project!:clap::clap::clap:
+Our lab is working on tabular data and large models. We released <a href="https://github.com/rllm-project/rllm"> rLLM (relationLLM)</a>, the world's first algorithm library for Relational Table Learning with LLMs. If you are interested :heartbeat: in this, welcome to communicate:email: or raise an issue :question: directly on the project! :clap: :clap: :clap:
 
 <!--
 **JianwuZheng413/JianwuZheng413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
